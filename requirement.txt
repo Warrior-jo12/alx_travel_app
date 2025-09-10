@@ -1,0 +1,8 @@
+Django>=4.2
+djangorestframework>=3.20
+django-cors-headers>=3.14
+drf-yasg>=1.21
+django-environ>=0.10.0
+mysqlclient>=2.1
+celery>=5.3
+pytz>=2023.3
